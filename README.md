@@ -52,3 +52,4 @@ To run the Python tests for the string calculator:
 cd string-calculator
 source venv/bin/activate
 pytest
+
